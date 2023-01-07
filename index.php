@@ -11,7 +11,7 @@
 <div class="container mt-5">
   <div class="row">
     <div class="col-sm-6 bg-warning text-white text-center">
-      
+      <h1>page index</h1>
       
   </div>
 </div>
